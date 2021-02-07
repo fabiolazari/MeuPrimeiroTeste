@@ -1,0 +1,9 @@
+C:\Users\Fabio\source\repos\MeuPrimeiroTeste\MyClass\bin\Debug\MyClass.dll
+C:\Users\Fabio\source\repos\MeuPrimeiroTeste\MyClass\bin\Debug\MyClass.pdb
+C:\Users\Fabio\source\repos\MeuPrimeiroTeste\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\MeuPrimeiroTeste\MyClass\obj\Debug\MyClass.dll
+C:\Users\Fabio\source\repos\MeuPrimeiroTeste\MyClass\obj\Debug\MyClass.pdb
+C:\Users\Fabio\source\repos\MeuPrimeiroTeste\MyClass\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Fabio\source\repos\MeuPrimeiroTeste\MyClass\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Fabio\source\repos\MeuPrimeiroTeste\MyClass\obj\Debug\MyClass.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\MeuPrimeiroTeste\MyClass\obj\Debug\MyClass.csproj.CopyComplete
